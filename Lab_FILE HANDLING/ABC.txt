@@ -1,0 +1,5 @@
+THis code effectively reads a file named "ABC.txt" and prints its contents line by line to the screen.
+ 1)By using a with statement, it ensures the file is properly managed and closed after reading.
+ 2) The loop processes each line individually.
+ 3) The print function displays each line without adding extra newlines, thereby preserving the file’s      original format. 
+This method is straightforward and efficient for handling text files and displaying their contents.
